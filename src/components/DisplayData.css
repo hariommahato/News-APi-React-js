@@ -1,0 +1,21 @@
+.data__box {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+h1,
+h3 {
+    text-align: center;
+
+}
+
+.data__show {
+    margin: 20px auto;
+    width: 500px;
+    height: justify;
+    border: 1px solid gray;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+
+}
